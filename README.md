@@ -19,3 +19,5 @@
  ___Xyz___</br>
 
 ![Screenshot_20240128-150122.png](https://github.com/Goatbottest/Jay/blob/main/Screenshot_20240128-150122.png)
+
+credits by xyz
